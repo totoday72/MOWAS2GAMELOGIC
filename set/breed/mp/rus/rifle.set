@@ -46,7 +46,7 @@
 	}
 	{inventory
 		{item "mosin" filled}
-		{item "ammo rifle" 100}
+		{item "ammo rifle" 4100}
 		{item "ammo mgun" 50}
 		{item "bandage" 3}
 		{item "grenade f1" 1}

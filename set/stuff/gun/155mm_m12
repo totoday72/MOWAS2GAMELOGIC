@@ -1,5 +1,5 @@
 {from "pattern gun"		; "m12_gmc"
-	{filling "bullet155" 6}
+	{filling "bullet155" 72}
 	{fireSound "gun/howitzer/155mm_gpf"}
 	{reloadSound "gun_r04"}
 	("range_heavy_howitzer")	

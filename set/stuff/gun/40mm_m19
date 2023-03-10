@@ -1,6 +1,6 @@
 {from "40mm_bofors"		; "m19"
-	{filling "bullet40 zenite" 14}
-	{rechargeTime 5}
+	{filling "bullet40 zenite" 100}
+	{rechargeTime 1}
 	
 	("recoveryTime" r(400))	
 	("accuracy_zenite_low")

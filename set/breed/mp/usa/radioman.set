@@ -45,11 +45,12 @@
 		("veterancy_1")
 	}
 	{inventory
+		
 		{item "thompson" filled}
 		{item "flaergun" filled}
-		{item "ammo pistol" 200}
+		{item "ammo pistol" 4200}
 		{item "ammo flaer" 50}
-		{item "bandage" 3}
+		{item "bandage" 20}
 		{in_hands 0}
 	}
 }

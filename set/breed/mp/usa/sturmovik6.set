@@ -45,8 +45,9 @@
 		("veterancy_1")
 	}
 	{inventory
-		{item "bar" filled}
-		{item "ammo mgun" 1200}
+		
+		{item "browning_m19" filled}
+		{item "ammo mgun" 4000}
 		{item "bandage" 5}
 		{item "grenade m61" 2}
 		{item "smoke grenade" 2}

@@ -3,7 +3,7 @@
 	{inventory
 		{size 5 1}
 	}
-	("fg" args 5.2)
+	("fg" args 15.2)
 	{mass 17}
 	{entity "shell_fg_90"}
 }

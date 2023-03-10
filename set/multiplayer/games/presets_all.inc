@@ -72,7 +72,7 @@
 			}
 			{hero
 				{resource 
-					{start 		10}
+					{start 		10000}
 				} 
 				{buttons "hero"}
 				{tag "special"}

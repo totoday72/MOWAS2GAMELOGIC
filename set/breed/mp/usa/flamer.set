@@ -47,6 +47,7 @@
 		("veterancy_1")
 	}
 	{inventory
+		
 		{item "flame_thrower"}
 		{item "balloon" filled}
 		{in_hands 0}

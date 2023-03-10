@@ -12,11 +12,11 @@
 	{detonationThickness 1}
 	{applyProjectile}
 	{damage blastwave
-		{energy 5}		; kg
-		{area 1.0 2.0}		; m
+		{energy 12}		; kg
+		{area 1.0 21.0}		; m
 	}
 	{damage add blastwave
-		{energy 1.5}
-		{area 8 10}
+		{energy 5.5}
+		{area 8 16}
 	}
 }

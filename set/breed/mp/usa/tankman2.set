@@ -44,9 +44,11 @@
 		(include "veterancy_generic.inc")
 		("veterancy_1")
 	}
-	{inventory             
-		{item "m3a" filled}
-		{item "ammo pistol" 100}
+	{inventory       
+			
+		{item "ds" filled}
+		{item "bandage" 30}
+		{item "ammo mgun" 4000}
 		{in_hands 0}
 	}
 }

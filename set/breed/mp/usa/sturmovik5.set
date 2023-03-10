@@ -45,9 +45,10 @@
 		("veterancy_1")
 	}
 	{inventory
+		
 		{item "weapon bazooka" filled}
 		{item "thompson" filled}
-		{item "ammo pistol" 500}
+		{item "ammo pistol" 4500}
 		{item "bandage" 5}
 		{item "grenade n73at" 1}
 		{item "ammo bazooka" 7}
