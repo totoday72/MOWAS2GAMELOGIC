@@ -102,7 +102,7 @@ actor
 
 {extender "inventory"
     {box
-        {Size 6 10}
+        {Size 16 10}
         {Weight 15000}
         {item "repair_kit" 2}
         {item "dynamite"}

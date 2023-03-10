@@ -3,20 +3,20 @@ human
 
 {extender "vitality"
 	{Health
-		{max 		100}	; max health
-		{current 	100}	; current health
-		{inc 		1.0}	; health regeneration per second
+		{max 		150}	; max health
+		{current 	150}	; current health
+		{inc 		10.0}	; health regeneration per second
 	}
 	{Stamina
-		{max 		100}	; max stamina
-		{current 	100}	; current stamina
+		{max 		11000}	; max stamina
+		{current 	11000}	; current stamina
 		{inc				; stamina regeneration/usage per second (depending on movement mode and load)		
 			; movement_mode		load[0]		load[1]		load[2]		load[3]
 			;--------------------------------------------------------------
-			{stay 				+15			+10			+9			+5 }	
-			{walk 				+10			+5			0			-10}
-			{slow 				+10			+5			0			-10}
-			{normal				+2.5		+1			0			-20}
+			{stay 				+150			+100			+90			+50 }	
+			{walk 				+100			+50			0			-10}
+			{slow 				+100			+50			0			-10}
+			{normal				+20.5		+10			0			-20}
 			{fast 				-5			-10 		-20			-40}
 		}
 		{load 		0		20		40		100} 	; equipment weight (in kg)
@@ -30,8 +30,10 @@ human
 
 {extender "inventory"
 	{box
-		{Size 6 10}
-		{Weight 100}
+		{Size 18 14}
+		{Weight 200} ;100
+		{item "bandage" 10}
+		{item "repair_kit" 1}
 	}
 	{hand_left}
 	{hand_right}

@@ -51,7 +51,7 @@ actor
 
 {extender "inventory"
     {box
-        {Size 6 10}
+        {Size 16 10}
         {weight 10000}
         {item "repair_kit" {cell 4 0}}
     }

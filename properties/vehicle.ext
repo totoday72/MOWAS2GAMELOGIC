@@ -34,9 +34,9 @@
 
 (define "chassis_defaults"
 	{FuelBag
-		{volume 200 }	; liters
+		{volume 7200 }	; liters
 		{rate	20 }   	; liters per kilometer
-		{remain 200 }
+		{remain 7200 }
 		{fuel "fuel"}
 	}
 	{speed
