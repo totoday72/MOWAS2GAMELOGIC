@@ -1,0 +1,40 @@
+; SDL
+; Third Person Control Registry Definitions
+{control
+	{third_person
+		{vehicle
+			{"default"
+				{linkBone		"basis"	}
+				{offset
+					{x			-250	}
+					{y			0		}
+					{z			-125	}
+				}
+				{cameraView		-45		}
+				{cameraYaw		0		}
+				{clipViewMin	30		}
+				{clipViewMax	90		}
+				{zoomMin		40		}
+				{zoomMax		70		}
+				{fov			0		}
+			}
+		}
+		{human
+			{"default"
+				{linkBone		"basis"	}
+				{offset
+					{x			-250	}
+					{y			0		}
+					{z			-125	}
+				}
+				{cameraView		-45		}
+				{cameraYaw		0		}
+				{clipViewMin	30		}
+				{clipViewMax	90		}
+				{zoomMin		40		}
+				{zoomMax		70		}
+				{fov			0		}
+			}
+		}
+	}
+}

@@ -1,0 +1,10 @@
+{game	
+	{maxPlayers 8}
+	{settings
+		{options 			fogOfWar difficulty friendlyFire showPiercing showDamageReports enableSpectators}
+		{difficulty 		normal}
+		{fogOfWar 			fog_off}
+		{floraRespawn 		0}		
+		{friendlyfire 		1}
+	}
+}
