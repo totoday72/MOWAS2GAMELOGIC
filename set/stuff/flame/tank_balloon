@@ -1,7 +1,7 @@
 {item
 	{tag "flame capacity balloon"}
 	{tag "itemin2hands"}
-	{filling "fuel" 500}
+	{filling "fuel" 50500}
 	{inventory
 		{size 4 2}
 		{weight 100}

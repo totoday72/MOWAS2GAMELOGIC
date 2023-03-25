@@ -1,6 +1,6 @@
 {item
 	{tag "itemin1hand capacity balloon"}
-	{filling "liquid" 80}
+	{filling "liquid" 8000}
 	{entity "balloon"}
 	{inventory
 		{size 3 4}
