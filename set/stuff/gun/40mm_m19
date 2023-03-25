@@ -3,5 +3,5 @@
 	{rechargeTime 1}
 	
 	("recoveryTime" r(400))	
-	("accuracy_zenite_low")
+	("accuracy_zenite_high")
 }
