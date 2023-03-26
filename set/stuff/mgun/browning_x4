@@ -3,5 +3,4 @@
 	
 	{rechargeTime 4}	
 	("recoveryTime" r(1000))
-	("range_maximum")
 }
