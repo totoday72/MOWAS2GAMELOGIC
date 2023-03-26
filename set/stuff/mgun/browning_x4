@@ -2,5 +2,6 @@
 	{filling "ammo hmgun" 40000}
 	
 	{rechargeTime 4}	
-	("recoveryTime" r(200))
+	("recoveryTime" r(1000))
+	("range_maximum")
 }
