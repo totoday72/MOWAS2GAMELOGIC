@@ -15,4 +15,7 @@
 		{energy 5}
 		{area 3 6}
 	}
+	{special
+		{PrepareTime 0.01}
+	}
 }

@@ -78,6 +78,8 @@
 					{call "explosion"}
 				}
 			}
+		else mine_effector "human"
+			{call "explosion"}
 		}
 	}
 }
