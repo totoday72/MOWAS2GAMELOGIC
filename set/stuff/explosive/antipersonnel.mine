@@ -8,11 +8,11 @@
 	}
 	{mass 1.5}
 	{damage blastwave
-		{energy 1.5}
+		{energy 7.2}
 		{area 0.45 0.5}
 	}	
 	{damage add blastwave
-		{energy 1.2}
+		{energy 2.2}
 		{area 1 5}
 	}
 }
