@@ -3,7 +3,7 @@
 	{inventory
 		{size 5 1}
 	}
-	("fg_heavy" args 14)
+	("fg_heavy" args 140)
 	{mass 40}	
 
 	{trace
