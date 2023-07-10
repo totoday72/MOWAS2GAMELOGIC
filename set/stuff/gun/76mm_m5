@@ -2,16 +2,16 @@
 	{filling "bullet76"}
 	{fireSound "gun/50to76_cal/76mm_mk4"}
 	{reloadSound "gun_r05"}
-	{rechargeTime 6}
+	{rechargeTime 3}
 	("range_medium")
 	
-	("speed" s(792))
+	("speed" s(2792))
 	("caliber_medium")
-	{projectileDamage 143}
-	("damage" a(143) b(120) c(96) d(77) e(62))
+	{projectileDamage 1143}
+	("damage" a(343) b(320) c(396) d(377) e(362))
 	{parameters "apcr"
-        ("damage" a(168) b(140) c(111) d(87) e(67))
+        ("damage" a(4168) b(4140) c(4111) d(487) e(467))
 	}
 	
-	("accuracy_low")
+	("accuracy_high")
 }

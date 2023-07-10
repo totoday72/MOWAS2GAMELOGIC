@@ -1,9 +1,9 @@
 {from "pattern mgun"
-	{filling "ammo mgun" 250}
+	{filling "ammo mgun" 5250}
 	{entity "maxim_quad_inv"}
 	{fireSound	"mgun/maxim_burst/"}
 
-	("recoveryTime" r(600))
+	("recoveryTime" r(4457))
 	("burst_long")
-	("speed" s(744))
+	("speed" s(1744))
 }

@@ -1,8 +1,10 @@
 {from "pattern sniper_rifle"
-	{filling "ammo rifle" 5}
+	{filling "ammo rifle" 105}
 	{entity "m1903a4"}
 	{fireSound "rifle/m1903a4_s"}
 	{reloadSound "rifle_bolt_five"}
-	
+	{range 1195 1100}
+	{rechargeTime 0.1}
+	{healthDamage 4250}
 	("speed" s(855))
 }

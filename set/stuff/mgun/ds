@@ -1,10 +1,10 @@
 {from "pattern mgun"
-	{filling "ammo mgun" 250}
+	{filling "ammo mgun" 6250}
 	{entity "ds39"}
 	{fireSound	"mgun/ds_burst/"}
 	{reloadSound "dt"}
 	
-	("recoveryTime" r(800))
+	("recoveryTime" r(1800))
 	("burst_long")
 	("speed" s(800))
 }

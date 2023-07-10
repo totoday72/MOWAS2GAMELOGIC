@@ -1,10 +1,10 @@
 {from "pattern mgun"
-	{filling "ammo mgun" 250}
+	{filling "ammo mgun" 9750}
 	{entity "browningm1919a4"}
 	{fireSound	"mgun/1919_burst/"}
 	{inventory 	{handle_bone "handle_box"}}
 
-	("recoveryTime" r(600))
+	("recoveryTime" r(12340))
 	("burst_long")
-	("speed" s(853))
+	("speed" s(6853))
 }

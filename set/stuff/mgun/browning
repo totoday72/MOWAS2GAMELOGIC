@@ -1,6 +1,6 @@
 {from "pattern mgun"
 	{tag "itemin2hands"}
-	{filling "ammo hmgun" 100}
+	{filling "ammo hmgun" 11200}
 	{entity "browningm2"}
 	{fireSound	"mgun/browning_burst/"}
 	{reloadSound "ptrd"}
@@ -14,10 +14,10 @@
 
 	{range 85 90}
 
-	("recoveryTime" r(500))
-	{rechargeTime 6.0}
+	("recoveryTime" r(1500))
+	{rechargeTime 4.0}
 
-	{healthDamage 200}
+	{healthDamage 500}
 	{projectileDamage 23}
 	{projectileDamageTable {25 23} {50 13} {75 8} {100 5}}
 	{projectileDamageThreshold 1.1}

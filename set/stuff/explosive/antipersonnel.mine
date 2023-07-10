@@ -8,14 +8,14 @@
 	}
 	{mass 1.5}
 	{damage blastwave
-		{energy 4.2}
-		{area 0.45 0.5}
+		{energy 5.2}
+		{area 0.7 0.7}
 	}	
 	{damage add blastwave
-		{energy 1.2}
-		{area 1 5}
+		{energy 4.2}
+		{area 3 5}
 	}
 	{special
-		{PrepareTime 0.01}
+		{PrepareTime 0.001}
 	}
 }

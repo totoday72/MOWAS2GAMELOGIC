@@ -12,6 +12,6 @@
 	{parameters "apcr"
         ("damage" a(9206) b(9195) c(9183) d(9157) e(9130))
 	}
-	
+	{range 1195 1100}
 	("accuracy_maximum") 
 }
