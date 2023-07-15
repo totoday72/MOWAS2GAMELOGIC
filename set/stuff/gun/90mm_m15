@@ -2,7 +2,7 @@
 	{filling "bullet90"}
 	{fireSound "gun/85to100_cal/90mm_m3"}
 	{reloadSound "tankgun_r02"}
-	{rechargeTime 0.01}
+	{rechargeTime 0.1}
 	("range_maximum")
 
 	("speed" s(9953))
@@ -13,5 +13,6 @@
         ("damage" a(9206) b(9195) c(9183) d(9157) e(9130))
 	}
 	{range 1195 1100}
+	{aimingTolerance 100.01}
 	("accuracy_maximum") 
 }

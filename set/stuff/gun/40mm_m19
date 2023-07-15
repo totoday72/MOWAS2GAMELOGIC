@@ -1,7 +1,10 @@
 {from "40mm_bofors"		; "m19"
 	{filling "bullet40 zenite" 10000}
 	{rechargeTime 1}
-	
+	{range 400 400}	
 	("recoveryTime" r(4000))	
+	{projectileDamage 1181}
 	("accuracy_zenite_high")
+	{aimingTolerance 100.01}
+	("accuracy_maximum") 
 }

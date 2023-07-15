@@ -3,6 +3,6 @@
 	{fireSound "gun/howitzer/155mm_gpf"}
 	{reloadSound "gun_r04"}
 	("range_heavy_howitzer")
-	{range 1195 1100}	
+	{range 400 400}	
 	{rechargeTime 0.1}
 }

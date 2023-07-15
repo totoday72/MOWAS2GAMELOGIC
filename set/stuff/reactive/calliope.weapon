@@ -1,8 +1,8 @@
 {weapon_bullet
-	{filling "ammo calliope" 200}
+	{filling "ammo calliope" 2200}
 	{fireSound "reactive/calliope_burst"}
 	("heavy_artillery")
-
+	{range 400 400}
 	{recoveryTime 0.15}		
 	{aimtype direct}
 	{rechargeTime 30}
